@@ -2,7 +2,7 @@
 
 #### I am a Web Developer in training
 
-![matrix](.assets/matrix-code.jpg)
+![matrix](https://i.imgur.com/7IFjQA6.jpg)
 
 I am currently enrolled in UCF Coding Bootcamp and learning how to code.
 
