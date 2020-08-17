@@ -1,4 +1,4 @@
-### Hi there 👋, Hey :D I'm Oscar. Welcome to my GitHub
+### Hey :D I'm Oscar. Welcome to my GitHub
 #### I am a Web Developer in training
 ![I am a Web Developer in training](https://imgur.com/7IFjQA6)
 
