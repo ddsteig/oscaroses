@@ -1,6 +1,6 @@
 ### Hey :D I'm Oscar. Welcome to my GitHub
 #### I am a Web Developer in training
-![I am a Web Developer in training](https://imgur.com/7IFjQA6)
+![https://imgur.com/7IFjQA6](https://imgur.com/7IFjQA6)
 
 I am currently enrolled in UCF Coding Bootcamp and learning how to code.
 
